@@ -1,5 +1,11 @@
 # @hey-api/openapi-ts
 
+## 0.80.2
+
+### Patch Changes
+
+- [`2ac456f`](https://github.com/hey-api/openapi-ts/commit/2ac456f0f6247ef51a83a8ddbe9a03d9b2dabae7) Thanks [@mrlubos](https://github.com/mrlubos)! - fix(transformers): add `typeTransformers` option allowing passing custom transform functions
+
 ## 0.80.1
 
 ### Patch Changes
